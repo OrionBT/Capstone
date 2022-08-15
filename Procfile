@@ -1,1 +1,1 @@
-web: voila \'97port=$PORT \'97no-browser RegressionPlottingFunction.ipynb}
+web: voila --port=$PORT --no-browser RegressionPlottingFunction.ipynb
