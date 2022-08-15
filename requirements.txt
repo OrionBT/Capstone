@@ -27,7 +27,6 @@ fastjsonschema==2.16.1
 Flask==2.2.1
 Flask-Compress==1.12
 fonttools==4.34.4
-idna @ file:///tmp/build/80754af9/idna_1637925883363/work
 importlib-metadata==4.12.0
 ipykernel==6.15.1
 ipython==8.4.0
