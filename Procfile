@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser RegressionPlottingFunction.ipynb
---Voila.ip=0.0.0.0 
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser RegressionPlottingFunction.ipynb
+
